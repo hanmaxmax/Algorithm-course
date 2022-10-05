@@ -1,0 +1,2 @@
+D:\learning\my_大二下\算法导论\实验\project2_Kmeans\x64\Release\project2_Kmeans.exe
+D:\learning\my_大二下\算法导论\实验\大作业\project2_Kmeans\x64\Release\project2_Kmeans.exe

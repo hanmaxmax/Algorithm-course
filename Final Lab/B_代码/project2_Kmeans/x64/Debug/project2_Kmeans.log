@@ -1,0 +1,56 @@
+﻿  源.cpp
+D:\learning\my_大二下\算法导论\实验\project2_Kmeans\源.cpp(35,55): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\learning\my_大二下\算法导论\实验\project2_Kmeans\源.cpp(36,55): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\learning\my_大二下\算法导论\实验\project2_Kmeans\源.cpp(37,55): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\learning\my_大二下\算法导论\实验\project2_Kmeans\源.cpp(51,14): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\learning\my_大二下\算法导论\实验\project2_Kmeans\源.cpp(52,53): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+D:\learning\my_大二下\算法导论\实验\project2_Kmeans\源.cpp(53,53): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+D:\learning\my_大二下\算法导论\实验\project2_Kmeans\源.cpp(54,53): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+D:\learning\my_大二下\算法导论\实验\project2_Kmeans\源.cpp(91,6): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\learning\my_大二下\算法导论\实验\project2_Kmeans\源.cpp(106,32): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\learning\my_大二下\算法导论\实验\project2_Kmeans\源.cpp(129,5): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  project2_Kmeans.vcxproj -> D:\learning\my_大二下\算法导论\实验\project2_Kmeans\x64\Debug\project2_Kmeans.exe
