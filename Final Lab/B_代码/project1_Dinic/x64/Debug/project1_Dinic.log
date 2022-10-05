@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\learning\my_大二下\算法导论\实验\大作业\project1_Dinic\源.cpp(87,17): warning C4244: “-=”: 从“__int64”转换到“int”，可能丢失数据
+D:\learning\my_大二下\算法导论\实验\大作业\project1_Dinic\源.cpp(88,21): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+D:\learning\my_大二下\算法导论\实验\大作业\project1_Dinic\源.cpp(90,12): warning C4244: “-=”: 从“__int64”转换到“int”，可能丢失数据
+D:\learning\my_大二下\算法导论\实验\大作业\project1_Dinic\源.cpp(93,9): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  project1_Dinic.vcxproj -> D:\learning\my_大二下\算法导论\实验\大作业\project1_Dinic\x64\Debug\project1_Dinic.exe
